@@ -78,7 +78,7 @@ Although Logistic Regression gave good accuracy, Naive Bayes gave better general
 test_news = """In a press briefing held at the National Press Club, the finance minister
 announced a 12% increase in education budget for the fiscal year 2025."""
 print(predict_news(test_news))  
-# 🚨 Fake News
+# 🚨 Real News
 ```
 """
 ---
